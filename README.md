@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajas2002
 - 👀 I’m interested in DevOps and new Technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ....
+- 🌱 I’m currently learning Js, Dom Manulpulation
+- 💞️ I’m looking to collaborate on Python, js
 - 📫 How to reach me rajasbhagatkar@gmail.com
 
 <!---
